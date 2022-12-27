@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/jilljenn/privgrouprec/tree/gh-pages) branch hosts the contents of this directory at <https://jilljenn.github.io/privgrouprec/>.
-The permalink for this webpage version is <https://jilljenn.github.io/privgrouprec/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/>.
+The permalink for this webpage version is <https://jilljenn.github.io/privgrouprec/v/3674fc12b8f69638a7fd5ecebb55f7991075b213/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://jilljenn.github.io/privgrouprec/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`b7a5c3f80d23ecb53de321822e2a2239209e01c7`](https://github.com/jilljenn/privgrouprec/commit/b7a5c3f80d23ecb53de321822e2a2239209e01c7).
+[`3674fc12b8f69638a7fd5ecebb55f7991075b213`](https://github.com/jilljenn/privgrouprec/commit/3674fc12b8f69638a7fd5ecebb55f7991075b213).
